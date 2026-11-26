@@ -27,8 +27,8 @@ güvenlik duvarı, VPN, MITM, güvenli/güvensiz kod, ağ topolojisi, SOC alarm 
 Gereksinim: Docker Engine + Docker Compose v2, ~2 GB boş RAM.
 
 ```bash
-git clone https://github.com/er0s3c/ordek.git
-cd ordek/klup-sunucusu
+git clone https://github.com/kilicayberkk/ordek-club.git
+cd ordek-club/klup-sunucusu
 ./install.sh                     # etkileşimli: alan adı sorar
 # veya
 ./install.sh --domain club.ornek.edu.tr   # otomatik HTTPS (Caddy + Let's Encrypt)
